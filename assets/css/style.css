@@ -204,6 +204,7 @@ input {
 	padding: 7px;
 	display: block;
 	margin-bottom: 10px;
+	
 }
 
 input:focus {
@@ -221,4 +222,9 @@ input:focus {
 	padding-right: 35px;
 	padding-bottom: 10px;
 
+}
+
+textarea {
+	font:inherit;
+	width:550px;
 }
